@@ -1,0 +1,5 @@
+테이블명 : physia_mobile_game_user
+컬럼 : idx, email, password, email_accept
+
+테이블명 : test_game
+컬럼 : idx, game_id(u), game_data
